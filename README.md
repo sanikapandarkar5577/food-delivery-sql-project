@@ -163,7 +163,7 @@ END;
 
 1. Clone this repository
 ```bash
-git clone https://github.com/tanvilengare02-bot/food-delivery-sql-project.git
+git clone https://github.com/sanikapandarkar5577-bot/food-delivery-sql-project.git
 ```
 
 2. Open `food_delivery_sql_project.sql` in **MySQL Workbench** or **VS Code**
@@ -206,7 +206,7 @@ food-delivery-sql-project/
 Sanika pandarkar
 SQL Course Project —2026 
 saniikapandarkar775577@gmail.com
-https://www.linkedin.com/in/sanika-pandarkar-6a2a7335a
+(https://www.linkedin.com/in/sanika-pandarkar-6a2a7335a)
 
 ---
 
